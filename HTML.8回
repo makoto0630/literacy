@@ -8,7 +8,7 @@
 
 <body>
   <ul>
-    <li><font size="20pt">大きい文字</font></li>
+    <li><font size="20px">大きい文字</font></li>
     <li><font color="red">赤い文字</font></li>
     <li><strike>取り消し線</strike></li>
   </ul>
